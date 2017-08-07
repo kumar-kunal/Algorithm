@@ -1,2 +1,2 @@
 # Algorithm
-Basic algorithm in cpp
+collection of famous algorithm and problem in cpp...!!!
